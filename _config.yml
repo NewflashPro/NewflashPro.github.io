@@ -1,5 +1,5 @@
 baseurl:
-url: https://chauby.github.io
+url: https://newflashpro.github.io/
 title: Newflash pro
 subtitle: "专业设计研发及生产手机周边配件"
 description: "Chauby's personal page"
@@ -68,7 +68,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: newflashpro.github.io
 
 # Search
 simple_jekyll_search:
