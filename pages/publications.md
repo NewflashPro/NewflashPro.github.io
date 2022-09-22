@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: 关于我们
 description: My publications
 keywords: Paper, Books
 comments: true
@@ -11,10 +11,15 @@ permalink: /publications/
 
 
 
-## Published
-1. C. Zou, R. Huang, Z. Peng, J. Qiu, J. Zhang, H. Cheng, “Synergetic Gait Prediction for Stroke Rehabilitation with Varying Walking Speeds”, in IEEE/RSJ International Conference on Intelligent Robotics and Systems (IROS), 2021, pp. 7298-7304. [paper](https://ieeexplore.ieee.org/document/9635860)
-2. C. Zou, R. Huang, H. Cheng, J. Qiu, “Learning Gait Models with Varying Walking Speeds”, in IEEE Robotics and Automation Letters (R-AL), 2020. [paper](https://ieeexplore.ieee.org/document/9131848)
-3. C. Zou, H. Cheng, J. Qiu, “Slope Gradient Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons”, in IEEE Transactions on Automation Science and Engineering (TASE), 2020. [paper](https://ieeexplore.ieee.org/document/9281111)
-4. C. Zou, R. Huang, H. Cheng, Q. Chen, J. Qiu, “Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons in Slope Scenarios”, in IEEE International Conference on Robotics and Automation (ICRA), 2019, pp 5083-5089. [paper](https://ieeexplore.ieee.org/document/8793863)
-5. R. Huang, Z. Peng, H. Cheng, C. Zou and Q. Chen, “Learning-based Walking Assistance Control Strategy for a Lower Limb Exoskeleton with Hemiplegia Patients”, in IEEE International Conference on Intelligent Robots and Systems (IROS), 2018, pp 2280-2285. [paper](https://ieeexplore.ieee.org/document/8594464)
-6. Q. Chen, H. Cheng, C. Zou, R. Huang and H. Guo, "Intention recognition for exoskeleton", in 2017 2nd International Conference on Advanced Robotics and Mechatronics (ICARM), Hefei, 2017, pp. 535-539. [paper](https://ieeexplore.ieee.org/document/8273219)
+## 介绍
+​     深圳市金果力有限公司是专业设计研发及生产手机周边配件，产品主要包括TypeC3.0数据线，PD充电线，HDMI高清线，U盘存储方案定制、手机OTG方案、公司拥有一批优秀的开发、设计、制造专业人才，时刻把握国内外产品市场的脉博，给您展示出最新奇、最先进的产品，同时也可根据客户的要求设计、开发各类产品。多年来，公司凭借现代化的生产设备，生产的产品品质可靠、时尚美观。公司秉承“质量第一、信誉至上”的服务宗旨，务求给客户最好的产品、最及时的交货期。产品遍布东南亚、远销欧美，赢得海内外客户的一致信赖。 在瞬息万变,竞争激烈的市场环境里，我们将全力配合您的步伐，在您的成就中实现我们的未来！ 竭诚欢迎广大客户来人来电洽谈业务!
+
+
+
+公司地址：深圳市龙岗区吉华路333号综合科技大厦6楼6B1
+
+联系方式:
+
+Tel: 0755-85221676/15279558188
+
+Email: [2893710797@qq.com](mailto:2893710797@qq.com)
