@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 description: Time flies
-keywords: Chauby, Chaobin Zou, CV
+keywords: Chauby, Newflash pro Zou, CV
 comments: true
 menu: Curriculum Vitae
 permalink: /cv/

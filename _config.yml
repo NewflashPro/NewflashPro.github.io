@@ -1,6 +1,6 @@
 baseurl:
 url: https://chauby.github.io
-title: Chaobin
+title: Newflash pro
 subtitle: "The sandglass remembers the time we mislay"
 description: "Chauby's personal page"
 date_format: "ordinal"
@@ -19,19 +19,19 @@ email: chaubyZou@163.com
 navs:
   -
     href: /
-    label: Homepage
+    label: 主页
 
   -
     href: /cv/
-    label: CV
+    label: 产品
 
   -
     href: /publications/
-    label: Publications
+    label: 联系我们
 
   -
     href: /categories/
-    label: Blogs
+    label: 博客
 
   -
     href: /wiki/
