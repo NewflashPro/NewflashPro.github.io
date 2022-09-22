@@ -24,14 +24,14 @@ Email: [2893710797@qq.com](mailto:2893710797@qq.com)
 
 ### App截图
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG25.png" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/images/posts/blog/WechatIMG25.png" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG36.png" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/images/posts/blog/WechatIMG36.png" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG39.png" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/images/posts/blog/WechatIMG39.png" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG41.png" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/images/posts/blog/WechatIMG41.png" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG35.png" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/images/posts/blog/WechatIMG35.png" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG34.png" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/images/posts/blog/WechatIMG34.png" alt="WechatIMG25" style="zoom:50%;" />
