@@ -15,14 +15,14 @@ permalink: /cv/
 
 
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/APP/WechatIMG25.jpeg" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG25.jpeg" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/APP/WechatIMG36.jpeg" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG36.jpeg" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/APP/WechatIMG39.jpeg" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG39.jpeg" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/APP/WechatIMG41.jpeg" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG41.jpeg" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/APP/WechatIMG35.jpeg" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG35.jpeg" alt="WechatIMG25" style="zoom:50%;" />
 
-<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/APP/WechatIMG34.jpeg" alt="WechatIMG25" style="zoom:50%;" />
+<img src="/Users/diwang/Documents/NewflashPro.github.io/images/posts/blog/WechatIMG34.jpeg" alt="WechatIMG25" style="zoom:50%;" />
