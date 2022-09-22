@@ -1,7 +1,7 @@
 baseurl:
 url: https://chauby.github.io
 title: Newflash pro
-subtitle: "The sandglass remembers the time we mislay"
+subtitle: "专业设计研发及生产手机周边配件"
 description: "Chauby's personal page"
 date_format: "ordinal"
 # timezone: Asia/Chengdu
@@ -9,11 +9,11 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 author: Chauby
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
-github_username: Chauby
-location: Chengdu, China
-email: chaubyZou@163.com
+organization: 深圳市金果力有限公司
+# organization_url: http://www.uestc.edu.cn
+github_username: 0755-85221676/15279558188
+location: Shenzhen, China
+email: admin@ikinple.com
 
 # Navigation
 navs:
