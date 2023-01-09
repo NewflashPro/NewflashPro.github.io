@@ -1,7 +1,7 @@
 baseurl:
 url: https://newflashpro.github.io/
 title: Newflash pro
-subtitle: "专业设计研发及生产手机周边配件"
+subtitle: "小飞漫画"
 description: "Chauby's personal page"
 date_format: "ordinal"
 # timezone: Asia/Chengdu
@@ -9,9 +9,9 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 author: Chauby
-organization: 深圳市金果力有限公司
+organization: 王先生
 # organization_url: http://www.uestc.edu.cn
-github_username: 0755-85221676/15279558188
+github_username: 13246637707
 location: Shenzhen, China
 email: admin@ikinple.com
 
